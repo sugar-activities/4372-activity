@@ -1,0 +1,14 @@
+Autores: Christofer Roibal ,Ana Cichero y Gabriel Eirea
+
+Este programa es software libre
+Por más información visitá http://ceibaljam.org
+
+Conozco Actividades :Christofer Roibal yyaaeell@hotmail.com
+zonas.txt y niveles.txt: Christofer Roibal
+Lámina: Christofer Roibal
+Terrón CeibalJam: Alejandro Rodríguez Juele
+Imagen mago: Ana Cichero
+Programación: Gabriel Eirea
+
+Sonidos bajados de freesound.org: btn045.wav gentileza de junggle
+Fuentes bajadas de urbanfonts.com: AllCaps.ttf gentileza de BobFrantic y Share-Regular.ttf gentileza de anónimo

@@ -1,0 +1,73 @@
+
+Prefijo = Según mi información\tenemos que buscar\la actividad
+Prefijo = Según mi información\tenemos que encontrar\la actividad
+
+Sufijo = ¿Qué actividad es?
+Sufijo = ¿Podrias ayudarme a\encontrarla?
+Sufijo = ¿Podés señalarme cual es?
+
+Correcto = ¡Muy bien!
+Correcto = ¡Genial!
+Correcto = ¡La encontraste!
+Correcto = ¡Sí!
+
+Mal = No, intentá de nuevo
+Mal = Esta no es
+Mal = Parece que no
+Mal = Seguí buscando...
+
+Despedida = Muy bien, tu si que sabes\Muchas gracias por ayudarme!!
+
+[Primer Nivel]
+Pregunta = TamTamMini|TamTamMini|Es la que esta arriba\de todo, en el medio
+Pregunta = Terminal|Terminal|Es la que le sigue\al tamborcito,\hacia la derecha
+Pregunta = Speak|Speak|Tiene un icono que\parece una cara
+Pregunta = Navegar|Navegar|El icono es un\globito con lineas rectas\y curvas
+Pregunta = Registro|Registro|Esta después de la\actividad Navegar
+Pregunta = Turtle Art|Turtle Art|El icono es una tortuga
+Pregunta = Leer|Leer|Tiene un icono parecido\a un libro abierto
+Pregunta = Etoys|Etoys|Esta desde la actividad\Terminal son 5 actividades
+Pregunta = Calculadora|Calculadora|Tiene el icono\de una calculadora
+Pregunta = Laberinto|Laberinto|Esta a dos actividades\de la actividad Etoys
+Pregunta = Pippy|Pippy|El icono parece una\serpiente
+Pregunta = Implode|Implode|Esta junto que\icono de la serpiente
+Pregunta = Grabar|Grabar|Esta entre las\actividades Pippy y\Distancia
+Pregunta = Distancia|Distancia|Tiene a un delfin como icono
+Pregunta = Scratch|Scratch|El icono es un lindo gatito
+Pregunta = TamTamSynthLab|TamTamSynthLab|Esta despues del\icono del gatito
+Pregunta = Chat|Chat|El icono es una viñeta\Esta despues de la\actividad TamTamSynthLab
+Pregunta = Luna|Luna|Esta a 7 actividades\de la actividad Laberinto
+Pregunta = Pintar|Pintar|Esta después del icono\que parece una luna
+Pregunta = Escribir|Escribir|Tiene un icono de\una hoja con un lápiz
+Pregunta = Memorizar|Memorizar|Esta a tres actividades\de la actividad\TamTamMini
+Pregunta = Medir|Medir|Esta después de la actividad Memorizar
+Pregunta = TamTamEdit|TamTamEdit|Esta a 7 actividades\ de la actividad Scratch
+Pregunta = TamTamJam|TamTamJam|El icono tiene muchos instrumentos
+Pregunta = Diario|Diario|Esta abajo del icono Xo
+
+[Segundo Nivel]
+Pregunta = que sirve para\tocar musica con\el teclado|TamTamMini|Es la que esta arriba\de todo, en el medio
+Pregunta = que sirve para\escribir los\comandos alsamixer,\rm y otros|Terminal|Es la que le sigue\al tamborcito,\hacia la derecha
+Pregunta = que tiene una\cara que habla lo\ que escribes|Speak|Tiene un icono que\parece una cara
+Pregunta = donde puedes navegar\por la web|Navegar|El icono es un\globito con lineas rectas\y curvas
+Pregunta = que sirve como herramienta\de ragistro|Registro|Esta después de la\actividad Navegar
+Pregunta = que sirve como\programacion grafica\Pseudo|Turtle Art|El icono es una tortuga
+Pregunta = que sirve para leer archivos PDF|Leer|Tiene un icono parecido\a un libro abierto
+Pregunta = entorno de creacion de programacion|Etoys|Esta desde la actividad\Terminal son 5 actividades
+Pregunta = que sirve para crear\cuentas|Calculadora|Tiene el icono\de una calculadora
+Pregunta = que en realidad\ es un juego de Laberintos|Laberinto|Esta a dos actividades\de la actividad Etoys
+Pregunta = que sirve como lenguaje\ de programación en\ Python|Pippy|El icono parece una\serpiente
+Pregunta = que en realidad es un\juego parecido al\SameGame|Implode|Esta junto que\icono de la serpiente
+Pregunta = que sirve para\grabar,filmar, y\sacar fotos|Grabar|Esta entre las\actividades Implode y\Distancia
+Pregunta = que sirve para medir\la distancia entre\dos xos|Distancia|Tiene a un delfin como icono
+Pregunta = que sirve como lengaje\de programacion multimedia|Scratch|El icono es un lindo gatito
+Pregunta = que sirve como laboratorio\de fisica y un\sintetizador de sonido|TamTamSynthLab|Esta despues del\icono del gatito
+Pregunta = que sirve para chatear|Chat|El icono es una viñeta\Esta despues de la\actividad TamTamSynthLab
+Pregunta = que sirve como visor de\fase lunar|Luna|Esta a 7 actividades\de la actividad Laberinto
+Pregunta = que sirve para pintar\ y crear dibujos|Pintar|Esta después del icono\que parece una luna
+Pregunta = que sirve para escribir\ y abrir documentos\de texto|Escribir|Tiene un icono de\una hoja con un lápiz
+Pregunta = que en realidad es un\juego de memoria|Memorizar|Esta a tres actividades\de la actividad\TamTamMini
+Pregunta = que sirve como sensor de sondo|Medir|Esta después de la actividad Memorizar
+Pregunta = que sirve como secuenciador\ de musica a en pistas|TamTamEdit|Esta a 7 actividades\ de la actividad Scratch
+Pregunta = donde los sonidos se\reproducen al golpear\las teclas individuales|TamTamJam|El icono tiene muchos instrumentos
+Pregunta = donde se guardan todos los\archivos descargados\fotos, videos, etc|Diario|

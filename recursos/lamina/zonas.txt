@@ -1,0 +1,25 @@
+TamTamMini|1|0|0|0
+Terminal|2|0|0|0
+Speak|3|0|0|0
+Navegar|4|0|0|0
+Registro|5|0|0|0
+Turtle Art|6|0|0|0
+Leer|7|0|0|0
+Etoys|8|0|0|0
+Calculadora|9|0|0|0
+Laberinto|10|0|0|0
+Pippy|11|0|0|0
+Implode|12|0|0|0
+Grabar|13|0|0|0
+Distancia|14|0|0|0
+Scratch|15|0|0|0
+TamTamSynthLab|16|0|0|0
+Chat|17|0|0|0
+Luna|18|0|0|0
+Pintar|19|0|0|0
+Escribir|20|0|0|0
+Memorizar|21|0|0|0
+Medir|22|0|0|0
+TamTamEdit|23|0|0|0
+TamTamJam|24|0|0|0
+Diario|25|0|0|0
